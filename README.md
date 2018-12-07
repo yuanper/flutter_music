@@ -7,15 +7,24 @@ A new Flutter application.
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png" alt="Sample"  width="250">
 </p>
 
-<img src='https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png' title='images' style='max-width:100px'></img>
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png)
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152510.png)
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152529.png)
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152540.png)
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152550.png)
-![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152610.png)
+<p>
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152510.png" alt="Sample"  width="250">
+</p>
+<p>
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152529.png" alt="Sample"  width="250">
+</p>
+<p>
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152540.png" alt="Sample"  width="250">
+</p>
+<p>
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152550.png" alt="Sample"  width="250">
+</p>
+<p>
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152610.png" alt="Sample"  width="250">
+</p>
 
-Plugin
+Plugin：
+
   flute_music_player
   
 ## Getting Started
