@@ -3,26 +3,14 @@
 A new Flutter application.
 
 项目图片：
-<a>
+<p>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png" alt="Sample"  width="250">
-</a>
-
-<a>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152510.png" alt="Sample"  width="250">
-</a>
-<a>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152529.png" alt="Sample"  width="250">
-</a>
-<a>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152540.png" alt="Sample"  width="250">
-</a>
-<a>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152550.png" alt="Sample"  width="250">
-</a>
-<a>
     <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152610.png" alt="Sample"  width="250">
-</a>
-
+</p>
 Plugin：
 
   flute_music_player
