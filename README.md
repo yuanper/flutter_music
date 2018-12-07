@@ -3,6 +3,10 @@
 A new Flutter application.
 
 项目图片：
+<p align="center">
+    <img src="https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png" alt="Sample"  width="250" height="140">
+</p>
+
 <img src='https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png' title='images' style='max-width:100px'></img>
 ![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152456.png)
 ![Image text](https://github.com/yuanper/flutter_music/blob/master/20181207-152510.png)
